@@ -1,2 +1,4 @@
-# emails_github_filesystem_pdf-tools_2321-ir-course-notes-p2321x
-Lecture notes for the graduate information retrieval course
+# Information Retrieval - Course Notes
+
+Lecture notes, exercises and reading lists for the graduate information retrieval
+course. This repository is teaching material only.
